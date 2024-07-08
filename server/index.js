@@ -87,7 +87,7 @@ app.get('/users', async (req, res) => {
 }
 
 function Testing(){
-    return 0;
+    return 1;
 }
 Testing();
 
