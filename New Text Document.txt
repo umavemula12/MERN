@@ -1,0 +1,4 @@
+umavemula12
+
+git config --global user.email "umavemula2005@gimail.com"
+git config --global user.name "umavemula12"
